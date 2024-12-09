@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Guid>784970cd-682d-488e-8ea4-54c4dfa566bc</Guid>
+    <Name>WOTCIridarAdventArsenalGhostTemplates</Name>
+    <Description>Description of My XCOM 2 Mod.</Description>
+    <SteamPublishID>0</SteamPublishID>
+    <AssemblyName>WOTCIridarAdventArsenalGhostTemplates</AssemblyName>
+    <RootNamespace>WOTCIridarAdventArsenalGhostTemplates</RootNamespace>
+    <ProjectGuid>{2cefbe83-326f-475b-a0d8-19db7b9aaefd}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Config\Base\" />
+    <Folder Include="Config\RocketLauncher" />
+    <Folder Include="Config\SonicRifle" />
+    <Folder Include="Config\SonicCannon" />
+    <Folder Include="Config\SniperRifle" />
+    <Folder Include="Config\Shotgun" />
+    <Folder Include="Config\Rifle" />
+    <Folder Include="Localization\" />
+    <Folder Include="ContentForCook\" />
+    <Folder Include="Src" />
+    <Folder Include="Src\WOTCIridarAdventArsenalGhostTemplates" />
+    <Folder Include="Src\WOTCIridarAdventArsenalGhostTemplates\Classes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Config\Rifle\XComTemplateEditor.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\RocketLauncher\XComTemplateEditor.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\Shotgun\XComTemplateEditor.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\SniperRifle\XComTemplateEditor.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\SonicCannon\XComTemplateEditor.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\SonicRifle\XComTemplateEditor.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\DeathSquadPack.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\DeathSquadPack_UI.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRIAdventRocketLauncher.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\SonicCannonPack.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\SonicRiflePack.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\XComGame.kor">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\XComGame.RUS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ReadMe.txt" />
+    <Content Include="ModPreview.jpg" />
+    <Content Include="ContentOptions.json" />
+    <Content Include="Config\Base\XComEditor.ini" />
+    <Content Include="Config\Base\XComEngine.ini" />
+    <Content Include="Config\Base\XComGame.ini" />
+    <Content Include="Config\XComTemplateCreator.ini" />
+    <Content Include="Localization\XComGame.int" />
+    <Content Include="Src\WOTCIridarAdventArsenalGhostTemplates\Classes\X2DLCInfo_WOTCIridarAdventArsenalGhostTemplates.uc">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <PropertyGroup>
+    <SolutionRoot>$(MSBuildProjectDirectory)\..\</SolutionRoot>
+    <ScriptsDir>$(SolutionRoot).scripts\\</ScriptsDir>
+    <BuildCommonRoot>$(ScriptsDir)X2ModBuildCommon\</BuildCommonRoot>
+  </PropertyGroup>
+  <Import Project="$(BuildCommonRoot)XCOM2.targets" />
+</Project>

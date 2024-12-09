@@ -1,0 +1,82 @@
+[IRI_Advent_Rifle_M2 X2WeaponTemplate]
+FriendlyName="어드밴트 전투 소총"
+FriendlyNamePlural = "어드밴트 전투 소총"
+BriefSummary="어드밴트 보병의 표준 무기인 이중 총열 전투소총은 사격량이 많아 어드밴트 도시 순찰대가 사용하는 값싼 대량 생산 전자기 무기보다 더 위험합니다."
+TacticalText="어드밴트 보병의 표준 무기인 이중 총열 전투소총은 사격량이 많아 어드밴트 도시 순찰대가 사용하는 값싼 대량 생산 전자기 무기보다 더 위험합니다."
+AbilityDescName="소총"
+
+[IRI_Advent_Rifle_M2_Schematic X2SchematicTemplate]
+m_strClassLabel="분대"
+
+[IRI_Advent_Rifle_M3 X2WeaponTemplate]
+FriendlyName="어드밴트 플라즈마 소총"
+FriendlyNamePlural="어드밴트 플라즈마 소총"
+BriefSummary="정예 어드밴트 부대만 사용하는 어드밴트 플라즈마 소총은 과열이 적은 타오르는 붉은 플라스마 탄를 발사할 수 있습니다."
+TacticalText="정예 어드밴트 부대만 사용하는 어드밴트 플라즈마 소총은 과열이 적은 타오르는 붉은 플라스마 탄를 발사할 수 있습니다."
+AbilityDescName="소총"
+
+[IRI_Advent_Rifle_M3_Schematic X2SchematicTemplate]
+m_strClassLabel="분대"
+
+
+[IRI_Advent_Shotgun_M2 X2WeaponTemplate]
+FriendlyName="어드밴트 폭동진압 산탄총"
+FriendlyNamePlural="어드밴트 폭동진압 산탄총"
+BriefSummary="전형적인 어드밴트 선봉대와 중보병이 사용하는 폭동진압 산탄총은 위험한 근거리 무기입니다."
+TacticalText="전형적인 어드밴트 선봉대와 중보병이 사용하는 폭동진압 산탄총은 위험한 근거리 무기입니다."
+AbilityDescName="산탄총"
+
+[IRI_Advent_Shotgun_M2_Schematic X2SchematicTemplate]
+m_strClassLabel="레인저"
+
+[IRI_Advent_Shotgun_M3 X2WeaponTemplate]
+FriendlyName="어드밴트 플라즈마 산탄총"
+FriendlyNamePlural="어드밴트 플라즈마 산탄총"
+BriefSummary="어드밴트 플라즈마 산탄총은 전자기와 동일한 자기 가속 기술을 기반으로 하지만, 추가로 탄약인 합금 파편을 과열시켜 말 그대로 목표물을 태워 버립니다."
+TacticalText="어드밴트 플라즈마 산탄총은 전자기와 동일한 자기 가속 기술을 기반으로 하지만, 추가로 탄약인 합금 파편을 과열시켜 말 그대로 목표물을 태워 버립니다."
+AbilityDescName="산탄총"
+
+[IRI_Advent_Shotgun_M3_Schematic X2SchematicTemplate]
+m_strClassLabel="레인저"
+
+
+[IRI_Advent_SniperRifle_M2 X2WeaponTemplate]
+FriendlyName="어드밴트 롱 렌서"
+FriendlyNamePlural="어드밴트 롱 렌서"
+BriefSummary="아마 축소된 어드밴트 공성포 설계를 기반으로 한 롱 렌서는 어떤 어드밴트 자동 무기보다 훨씬 더 긴 사정거리와 정확도를 제공합니다."
+TacticalText="아마 축소된 어드밴트 공성포 설계를 기반으로 한 롱 렌서는 어떤 어드밴트 자동 무기보다 훨씬 더 긴 사정거리와 정확도를 제공합니다."
+AbilityDescName="저격총"
+
+[IRI_Advent_SniperRifle_M2_Schematic X2SchematicTemplate]
+m_strClassLabel="샤프슈터"
+
+[IRI_Advent_SniperRifle_M3 X2WeaponTemplate]
+FriendlyName="어드밴트 플라즈마 랜스"
+FriendlyNamePlural="어드밴트 플라즈마 랜스"
+BriefSummary="플라즈마 셀로 업그레이드 된 플라즈마 랜스는 피해와 정확성 모두 어드밴트 롱 렌서에 비해 크게 향상되었습니다."
+TacticalText="플라즈마 셀로 업그레이드 된 플라즈마 랜스는 피해와 정확성 모두 어드밴트 롱 렌서에 비해 크게 향상되었습니다."
+AbilityDescName="저격총"
+
+[IRI_Advent_SniperRifle_M3_Schematic X2SchematicTemplate]
+m_strClassLabel="샤프슈터"
+
+
+[IRI_Advent_SonicRifle X2WeaponTemplate]
+FriendlyName="어드밴트 음파 소총"
+FriendlyNamePlural="어드밴트 음파 소총"
+BriefSummary="음파 소총의 의도된 목적은 제압과 약화인 것으로 보이지만, 최대 출력에 장기간 노출되면 \"정규\ "총기 발사체만큼 치명적입니다."
+TacticalText="음파 소총의 의도된 목적은 제압과 약화인 것으로 보이지만, 최대 출력에 장기간 노출되면 \"정규\ "총기 발사체만큼 치명적입니다."
+AbilityDescName="음파 소총"
+
+[IRI_Advent_SonicRifle_Schematic X2SchematicTemplate]
+m_strClassLabel="분대"
+
+[IRI_Advent_SonicCannon X2WeaponTemplate]
+FriendlyName="어드밴트 음파 케논"
+FriendlyNamePlural="ADVENT Sonic Cannons"
+BriefSummary="음파 소총의 더 무거운 버전이기 때문에, 음파 캐논은 전반적으로 출력을 증가 되어 치명적이든 아니든 그 효과를 전달하는 데 시간이 줄어 듭니다."
+TacticalText="음파 소총의 더 무거운 버전이기 때문에, 음파 캐논은 전반적으로 출력을 증가 되어 치명적이든 아니든 그 효과를 전달하는 데 시간이 줄어 듭니다."
+AbilityDescName="음파 케논"
+
+[IRI_Advent_SonicRifle_Schematic X2SchematicTemplate]
+m_strClassLabel="척탄병"

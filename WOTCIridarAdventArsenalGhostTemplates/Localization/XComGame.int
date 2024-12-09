@@ -1,0 +1,90 @@
+[IRI_Advent_Rifle_M2 X2WeaponTemplate]
+FriendlyName="ADVENT Battle Rifle"
+FriendlyNamePlural="ADVENT Battle Rifles"
+BriefSummary="A standard weapon for regular ADVENT infantry, the twin-barreled Battle Rifle has greater volume of fire, making it more dangerous than the cheap mass-produced magnetic weapons used by ADVENT city patrols."
+TacticalText="A standard weapon for regular ADVENT infantry, the twin-barreled Battle Rifle has greater volume of fire, making it more dangerous than the cheap mass-produced magnetic weapons used by ADVENT city patrols."
+AbilityDescName="rifle"
+
+[IRI_Advent_Rifle_M2_Schematic X2SchematicTemplate]
+m_strClassLabel="SQUAD"
+
+[IRI_Advent_Rifle_M3 X2WeaponTemplate]
+FriendlyName="ADVENT Plasma Rifle"
+FriendlyNamePlural="ADVENT Plasma Rifles"
+BriefSummary="Employed only by elite ADVENT forces, the ADVENT Plasma Rifle is capable of launching whole volleys of searing red plasma without overheating."
+TacticalText="Employed only by elite ADVENT forces, the ADVENT Plasma Rifle is capable of launching whole volleys of searing red plasma without overheating."
+AbilityDescName="rifle"
+
+[IRI_Advent_Rifle_M3_Schematic X2SchematicTemplate]
+m_strClassLabel="SQUAD"
+
+
+[IRI_Advent_Shotgun_M2 X2WeaponTemplate]
+FriendlyName="ADVENT Riot Shotgun"
+FriendlyNamePlural="ADVENT Riot Shotguns"
+BriefSummary="Typically used by ADVENT vanguard forces and heavy infantry, the Riot Shotgun is a dangerous close quarters weapon."
+TacticalText="Typically used by ADVENT vanguard forces and heavy infantry, the Riot Shotgun is a dangerous close quarters weapon."
+AbilityDescName="shotgun"
+
+[IRI_Advent_Shotgun_M2_Schematic X2SchematicTemplate]
+m_strClassLabel="RANGER"
+
+[IRI_Advent_Shotgun_M3 X2WeaponTemplate]
+FriendlyName="ADVENT Plasma Shotgun"
+FriendlyNamePlural="ADVENT Plasma Shotguns"
+BriefSummary="The ADVENT Plasma Shotgun is based on the same magnetic acceleration technology as its magnetic counterpart, but it additionally superheats its alloy shard ammunition, which then literally burns through its targets."
+TacticalText="The ADVENT Plasma Shotgun is based on the same magnetic acceleration technology as its magnetic counterpart, but it additionally superheats its alloy shard ammunition, which then literally burns through its targets."
+AbilityDescName="shotgun"
+
+[IRI_Advent_Shotgun_M3_Schematic X2SchematicTemplate]
+m_strClassLabel="RANGER"
+
+
+[IRI_Advent_SniperRifle_M2 X2WeaponTemplate]
+FriendlyName="ADVENT Long Lance"
+FriendlyNamePlural="ADVENT Long Lance"
+BriefSummary="Seemingly based on the downscaled ADVENT siege cannon design, the Long Lance has much greater reach and precision than any ADVENT automatic weapon."
+TacticalText="Seemingly based on the downscaled ADVENT siege cannon design, the Long Lance has much greater reach and precision than any ADVENT automatic weapon."
+AbilityDescName="sniper rifle"
+
+[IRI_Advent_SniperRifle_M2_Schematic X2SchematicTemplate]
+m_strClassLabel="SHARPSHOOTER"
+
+[IRI_Advent_SniperRifle_M3 X2WeaponTemplate]
+FriendlyName="ADVENT Plasma Lance"
+FriendlyNamePlural="ADVENT Plasma Lance"
+BriefSummary="Upgraded with red plasma cells, the Plasma Lance is a significant improvement over the ADVENT Long Lance, both in damage and precision."
+TacticalText="Upgraded with red plasma cells, the Plasma Lance is a significant improvement over the ADVENT Long Lance, both in damage and precision."
+AbilityDescName="sniper rifle"
+
+[IRI_Advent_SniperRifle_M3_Schematic X2SchematicTemplate]
+m_strClassLabel="SHARPSHOOTER"
+
+
+[IRI_Advent_SonicRifle X2WeaponTemplate]
+FriendlyName="ADVENT Sonic Rifle"
+FriendlyNamePlural="ADVENT Sonic Rifles"
+BriefSummary="It seems the intended purpose of the Sonic Rifle is pacification and debilitation, but prolonged exposure to its maximum output is just as lethal as the \"regular\" firearm projectiles."
+TacticalText="It seems the intended purpose of the Sonic Rifle is pacification and debilitation, but prolonged exposure to its maximum output is just as lethal as the \"regular\" firearm projectiles."
+AbilityDescName="sonic rifle"
+
+[IRI_Advent_SonicRifle_Schematic X2SchematicTemplate]
+m_strClassLabel="SQUAD"
+
+[IRI_Advent_SonicCannon X2WeaponTemplate]
+FriendlyName="ADVENT Sonic Cannon"
+FriendlyNamePlural="ADVENT Sonic Cannons"
+BriefSummary="Being a heavier version of the Sonic Rifle, the Sonic Cannon has increased output across the board, and takes less time to deliver its effects, both lethal and non-lethal."
+TacticalText="Being a heavier version of the Sonic Rifle, the Sonic Cannon has increased output across the board, and takes less time to deliver its effects, both lethal and non-lethal."
+AbilityDescName="sonic cannon"
+
+[IRI_Advent_SonicRifle_Schematic X2SchematicTemplate]
+m_strClassLabel="GRENADIER"
+
+
+[IRI_Advent_RocketLauncher X2WeaponTemplate]
+FriendlyName="ADVENT Rocket Launcher"
+FriendlyNamePlural="ADVENT Rocket Launchers"
+BriefSummary="Based on the classic Earth design, the ADVENT Rocket Launcher is commonly used against entrenched Resistance positions."
+TacticalText="Based on the classic Earth design, the ADVENT Rocket Launcher is commonly used against entrenched Resistance positions."
+AbilityDescName="rocket launcher"
